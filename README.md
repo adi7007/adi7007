@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Personalized News Recommendation system<br>👯 I’m looking to collaborate as a frontend developer<br>🌱 I’m currently learning DSA/web-devlopment
+🔭 I’m currently working on android developments.<br>👯 I’m looking to collaborate as a frontend developer<br>🌱 I’m currently learning DSA/web-devlopment
 
 
 ## 🌐 Socials:
